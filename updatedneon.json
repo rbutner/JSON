@@ -1,0 +1,1585 @@
+[
+    {
+        "color": "Red",
+        "subject": "laundry",
+        "text": "in by 9am out by 9pm"
+    },
+    {
+        "color": "Red; Pink; Blue; Green",
+        "subject": "pizza",
+        "text": "stoshs pizza pitas",
+        "symbol": "chef"
+    },
+    {
+        "color": "redBlue",
+        "subject": "restaurant",
+        "text": "sunrise",
+        "symbol": "waves"
+    },
+    {
+        "color": "red",
+        "subject": "cafe",
+        "text": "europe cafe"
+    },
+    {
+        "color": "redWhite",
+        "subject": "coney island",
+        "text": "athens coney island"
+    },
+    {
+        "color": "redWhite",
+        "subject": "hard rock cafe",
+        "text": "hard rock cafe",
+        "symbol": "quitar"
+    },
+    {
+        "color": "yellow",
+        "subject": "restaurant",
+        "text": "quality restaurant"
+    },
+    {
+        "color": "white",
+        "subject": "parking",
+        "text": "parking"
+    },
+    {
+        "color": "red",
+        "subject": "theater",
+        "text": "stax"
+    },
+    {
+        "color": "red",
+        "subject": "casino",
+        "text": "greek casino"
+    },
+    {
+        "color": "white",
+        "subject": "motel",
+        "text": "wood motel"
+    },
+    {
+        "color": "white",
+        "subject": "trucks",
+        "text": "trucks"
+    },
+    {
+        "color": "redGreen",
+        "subject": "jewelers",
+        "text": "credit simmons and clark jewelers"
+    },
+    {
+        "color": "white",
+        "subject": "shoe repair",
+        "text": "drive in shoe repair"
+    },
+    {
+        "color": "white",
+        "subject": "motel",
+        "text": "fontaine motel"
+    },
+    {
+        "color": "white",
+        "subject": "store",
+        "text": "carls"
+    },
+    {
+        "color": "green",
+        "subject": "store",
+        "text": "detroit check cashing",
+        "symbol": "money sign"
+    },
+    {
+        "color": "redOrangeBlue",
+        "subject": "theater",
+        "text": "douglas auto theatre"
+    },
+    {
+        "color": "whiteRed",
+        "subject": "cleaners",
+        "text": "mgm cleaners",
+        "symbol": "lightning bolt"
+    },
+    {
+        "color": "white",
+        "subject": "car place",
+        "text": "buick"
+    },
+    {
+        "color": "black",
+        "subject": "hotel",
+        "text": "hotel yorba"
+    },
+    {
+        "color": "greenRed",
+        "subject": "garage",
+        "text": "vinsetta garage"
+    },
+    {
+        "color": "red",
+        "subject": "store",
+        "text": "nothing stops detroit"
+    },
+    {
+        "color": "red",
+        "subject": "motel",
+        "text": "twin elms motel"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "golden fleece restaurant"
+    },
+    {
+        "color": "white",
+        "subject": "bar",
+        "text": "dexter bar"
+    },
+    {
+        "color": "white",
+        "subject": "laundry",
+        "text": "indian village laundry"
+    },
+    {
+        "color": "redOrangeGreenBlue",
+        "subject": "food place",
+        "text": "fishbones seafood steaks sushi"
+    },
+    {
+        "color": "redOrange",
+        "subject": "bar",
+        "text": "the bean bar"
+    },
+    {
+        "color": "purple",
+        "subject": "words",
+        "text": "count your change"
+    },
+    {
+        "color": "whiteRedBlue",
+        "subject": "food place",
+        "text": "opa",
+        "symbol": "fire"
+    },
+    {
+        "color": "blueRed",
+        "subject": "bowling",
+        "text": "bowl",
+        "symbol": "bowling pin"
+    },
+    {
+        "color": "red",
+        "subject": "grille",
+        "text": "locos tex mex grille",
+        "symbol": "star"
+    },
+    {
+        "color": "white",
+        "subject": "market",
+        "text": "food farm market",
+        "symbol": "arrow"
+    },
+    {
+        "color": "whiteRedBlue",
+        "subject": "beer",
+        "text": "miller"
+    },
+    {
+        "color": "redBlueGreen",
+        "subject": "ice cream",
+        "text": "ice cream 28 flavors"
+    },
+    {
+        "color": "redGreen",
+        "subject": "food place",
+        "text": "bangkok thai"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "pizza chicken"
+    },
+    {
+        "color": "redBlue ",
+        "subject": "tattoo",
+        "text": "tattoo"
+    },
+    {
+        "color": "redGreen",
+        "subject": "bar",
+        "text": "sullivans bar"
+    },
+    {
+        "color": "red",
+        "subject": "religious",
+        "text": "christ died for our sins"
+    },
+    {
+        "color": "whiteRed",
+        "subject": "beer",
+        "text": "budweiser"
+    },
+    {
+        "color": "redBlue",
+        "subject": "thrift",
+        "text": "mars vintage thrift"
+    },
+    {
+        "color": "red",
+        "subject": "hotel",
+        "text": "hotel sun marine"
+    },
+    {
+        "color": "redYellow",
+        "subject": "bar",
+        "text": "resolution cocktails and kitchen"
+    },
+    {
+        "color": "red",
+        "subject": "market",
+        "text": "public market"
+    },
+    {
+        "color": "whiteRed",
+        "subject": "food place",
+        "text": "morrisons restaurant"
+    },
+    {
+        "color": "white",
+        "subject": "hotel",
+        "text": "hotel stratford"
+    },
+    {
+        "color": "bluePurpleGreenYellowRed",
+        "subject": "neon signs",
+        "text": "neon signs"
+    },
+    {
+        "color": "redGreenYellow",
+        "subject": "cabins",
+        "text": "idle hour cabins"
+    },
+    {
+        "color": "redGreen",
+        "subject": "sushi",
+        "text": "kirin sushi"
+    },
+    {
+        "color": "blueRed",
+        "subject": "gas",
+        "text": "gulf gasoline"
+    },
+    {
+        "color": "yellowRed",
+        "subject": "shops",
+        "text": "more shops",
+        "symbol": "hand pointing"
+    },
+    {
+        "color": "redBlueYellow",
+        "subject": "store",
+        "text": "chronotech usa",
+        "symbol": "clock"
+    },
+    {
+        "color": "redBlue",
+        "subject": "bar",
+        "text": "martini"
+    },
+    {
+        "color": "whiteRedGreen",
+        "subject": "drive in ",
+        "text": "sugar n spice your family drive in "
+    },
+    {
+        "color": "redBlue",
+        "subject": "food place",
+        "text": "delicious"
+    },
+    {
+        "color": "redGreenBlue",
+        "subject": "cafe",
+        "text": "cafe cocktails"
+    },
+    {
+        "color": "redGreen",
+        "subject": "cleaners",
+        "text": "society cleaners"
+    },
+    {
+        "color": "red",
+        "subject": "pawn shop",
+        "text": "pawn shop"
+    },
+    {
+        "color": "red",
+        "subject": "bar",
+        "text": "hamleys"
+    },
+    {
+        "color": "blueGreen",
+        "subject": "food place",
+        "text": "cappuccino salads sandwiches"
+    },
+    {
+        "color": "redBlueWhite",
+        "subject": "barber shop",
+        "text": "barber shop"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "mexican manhatan restaurant"
+    },
+    {
+        "color": "red",
+        "subject": "ice cream",
+        "text": "ice cream sherbert"
+    },
+    {
+        "color": "red",
+        "subject": "market",
+        "text": "flea market"
+    },
+    {
+        "color": "redWhite",
+        "subject": "food place",
+        "text": "pioneer cj cafe food"
+    },
+    {
+        "color": "white",
+        "subject": "words",
+        "text": "smoke different"
+    },
+    {
+        "color": "blueRedGreenYellow",
+        "subject": "party store",
+        "text": "party store balloons baby wedding greeting cards"
+    },
+    {
+        "color": "redYellow",
+        "subject": "food place",
+        "text": "hamburger",
+        "symbol": "hamburger buns"
+    },
+    {
+        "color": "redGreen",
+        "subject": "liquor store",
+        "text": "bar wines liquors"
+    },
+    {
+        "color": "redWhite",
+        "subject": "food place",
+        "text": "mcdonalds hamburgers"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "st clair"
+    },
+    {
+        "color": "blue",
+        "subject": "?",
+        "text": "zorba"
+    },
+    {
+        "color": "redYellowBlue",
+        "subject": "bar",
+        "text": "ricks beer joint"
+    },
+    {
+        "color": "white",
+        "subject": "store",
+        "text": "package store"
+    },
+    {
+        "color": "green",
+        "subject": "store",
+        "text": "checks cashed"
+    },
+    {
+        "color": "red",
+        "subject": "liqour store",
+        "text": "liquor"
+    },
+    {
+        "color": "whiteRed",
+        "subject": "beer",
+        "text": "budweiser"
+    },
+    {
+        "color": "red",
+        "subject": "store",
+        "text": "general store"
+    },
+    {
+        "color": "greenYellowWhite",
+        "subject": "store",
+        "text": "vitamins party supply"
+    },
+    {
+        "color": "orangePink",
+        "subject": "food place",
+        "text": "dunkin donuts"
+    },
+    {
+        "color": "green",
+        "subject": "flowers",
+        "text": "fresh flowers"
+    },
+    {
+        "color": "redGreen",
+        "subject": "open",
+        "text": "open"
+    },
+    {
+        "color": "pink",
+        "subject": "motel",
+        "text": "pink motel"
+    },
+    {
+        "color": "red",
+        "subject": "store",
+        "text": "western appliance"
+    },
+    {
+        "color": "red",
+        "subject": "drink",
+        "text": "coca cola"
+    },
+    {
+        "color": "orangePink",
+        "subject": "store",
+        "text": "village store"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "steakburger"
+    },
+    {
+        "color": "blueRed",
+        "subject": "motel",
+        "text": "vacancies"
+    },
+    {
+        "color": "orange",
+        "subject": "delivery",
+        "text": "extremely fast delivery"
+    },
+    {
+        "color": "blue",
+        "subject": "words",
+        "text": "relax"
+    },
+    {
+        "color": "red",
+        "subject": "words",
+        "text": "hello beautiful"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "chilis"
+    },
+    {
+        "color": "whiteRed",
+        "subject": "place",
+        "text": "garage firestone"
+    },
+    {
+        "color": "whiteRedYellow",
+        "subject": "darts",
+        "text": "darts"
+    },
+    {
+        "color": "blue",
+        "subject": "food",
+        "text": "onion rings"
+    },
+    {
+        "color": "greenBlueRed",
+        "subject": "food",
+        "text": "athenian lunch seafood"
+    },
+    {
+        "color": "blue",
+        "subject": "club",
+        "text": "siemens club"
+    },
+    {
+        "color": "green",
+        "subject": "food place",
+        "text": "lone star"
+    },
+    {
+        "color": "redGreen",
+        "subject": "beer",
+        "text": "beer to go wine hot dogs liquor"
+    },
+    {
+        "color": "blueRedWhite",
+        "subject": "open",
+        "text": "yes were open"
+    },
+    {
+        "color": "whiteRedGreen",
+        "subject": "food place",
+        "text": "johns grille steaks and seafood"
+    },
+    {
+        "color": "white",
+        "subject": "food",
+        "text": "palmers restaurant"
+    },
+    {
+        "color": "green",
+        "subject": "store",
+        "text": "the swamp"
+    },
+    {
+        "color": "red",
+        "subject": "words",
+        "text": "superb"
+    },
+    {
+        "color": "white",
+        "subject": "liquor store",
+        "text": "liquor food"
+    },
+    {
+        "color": "redGreenOrange",
+        "subject": "motel",
+        "text": "cadillac motel vacancy"
+    },
+    {
+        "color": "blue",
+        "subject": "coffee",
+        "text": "waves coffee",
+        "symbol": "waves"
+    },
+    {
+        "color": "white",
+        "subject": "floor coverings",
+        "text": "marchio floor coverings"
+    },
+    {
+        "color": "white",
+        "subject": "Jewelers",
+        "text": "nats jewelers"
+    },
+    {
+        "color": "white",
+        "subject": "animals",
+        "text": "smithereen exterminators",
+        "symbol": "rat"
+    },
+    {
+        "color": "orangeGreenRed",
+        "subject": "misc",
+        "text": "video ovies laundromat coca cola"
+    },
+    {
+        "color": "red",
+        "subject": "food",
+        "text": "french fries"
+    },
+    {
+        "color": "redGreenYellow",
+        "subject": "bar",
+        "text": "p and g bar"
+    },
+    {
+        "color": "red",
+        "subject": "food",
+        "text": "burgerville hot off the grill"
+    },
+    {
+        "color": "red",
+        "subject": "flower shop",
+        "text": "odaniels flower shop"
+    },
+    {
+        "color": "red",
+        "subject": "food",
+        "text": "shakes"
+    },
+    {
+        "color": "blue",
+        "subject": "misc",
+        "text": "waterfront viewpoint"
+    },
+    {
+        "color": "redWhite",
+        "subject": "lodge",
+        "text": "red feather lodge"
+    },
+    {
+        "color": "yellow",
+        "subject": "loans",
+        "text": "home loans dreams approved daily"
+    },
+    {
+        "color": "redBlue",
+        "subject": "food",
+        "text": "burger spot",
+        "symbol": "arrow"
+    },
+    {
+        "color": "redGreen",
+        "subject": "cafe",
+        "text": "cafe "
+    },
+    {
+        "color": "red,Blue",
+        "subject": "hotel",
+        "text": "hotel relax inn"
+    },
+    {
+        "color": "red,Blue",
+        "subject": "misc",
+        "text": "domestics"
+    },
+    {
+        "color": "red,Blue",
+        "subject": "car wash",
+        "text": "car wash"
+    },
+    {
+        "color": "red",
+        "subject": "words",
+        "text": "neon signs"
+    },
+    {
+        "color": "redGreen",
+        "subject": "loans",
+        "text": "payday loans"
+    },
+    {
+        "color": "redGreenBlue",
+        "subject": "grill",
+        "text": "market grill"
+    },
+    {
+        "color": "blue",
+        "subject": "words",
+        "text": "welcome"
+    },
+    {
+        "color": "white",
+        "subject": "liquor store",
+        "text": "liquor"
+    },
+    {
+        "color": "yellowRed",
+        "subject": "motel",
+        "text": "melody lane motel"
+    },
+    {
+        "color": "redBlue",
+        "subject": "misc",
+        "text": "lower floor"
+    },
+    {
+        "color": "redYellowBlue",
+        "subject": "numbers",
+        "text": 1050
+    },
+    {
+        "color": "redBlue",
+        "subject": "beds",
+        "text": "adjustable bed sale"
+    },
+    {
+        "color": "green",
+        "subject": "motel",
+        "text": "motel"
+    },
+    {
+        "color": "redWhite",
+        "subject": "pets",
+        "text": "andys pet shop"
+    },
+    {
+        "color": "orange",
+        "subject": "pharmacy",
+        "text": "jose pharmacy"
+    },
+    {
+        "color": "white",
+        "subject": "money",
+        "text": "moneygram"
+    },
+    {
+        "color": "blue",
+        "subject": "passport",
+        "text": "passport photos"
+    },
+    {
+        "color": "redOrangeWhiteGreen",
+        "subject": "food",
+        "text": "mango daiquiris"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "diner"
+    },
+    {
+        "color": "redGreen",
+        "subject": "salon",
+        "text": "hair nails waxing"
+    },
+    {
+        "color": "yellow",
+        "subject": "words",
+        "text": "lemonade"
+    },
+    {
+        "color": "redBlue",
+        "subject": "diner",
+        "text": "loris diner"
+    },
+    {
+        "color": "white",
+        "subject": "hotel",
+        "text": "hotel entrance"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "shakes"
+    },
+    {
+        "color": "blue",
+        "subject": "food place",
+        "text": "snow cones"
+    },
+    {
+        "color": "orange",
+        "subject": "food  ",
+        "text": "cotton candy"
+    },
+    {
+        "color": "red",
+        "subject": "cameras",
+        "text": "kodaks"
+    },
+    {
+        "color": "redBlueGreen",
+        "subject": "alterations",
+        "text": "expert alterations",
+        "symbol": "needle"
+    },
+    {
+        "color": "blue",
+        "subject": "cafe",
+        "text": "cafe espresso"
+    },
+    {
+        "color": "green",
+        "subject": "food",
+        "text": "sandwich subano"
+    },
+    {
+        "color": "red",
+        "subject": "pharmacy",
+        "text": "save on drugs"
+    },
+    {
+        "color": "white",
+        "subject": "liqour store",
+        "text": "liquors"
+    },
+    {
+        "color": "redGreen",
+        "subject": "food place",
+        "text": "juice bar open"
+    },
+    {
+        "color": "redYellow",
+        "subject": "store",
+        "text": "electrical plumbing keys",
+        "symbol": "key"
+    },
+    {
+        "color": "redGreenYellow",
+        "subject": "cafe",
+        "text": "espresso cappuccino",
+        "symbol": "coffee cup"
+    },
+    {
+        "color": "red",
+        "subject": "food place",
+        "text": "sanwich garden"
+    },
+    {
+        "color": "redGreen",
+        "subject": "restaurant",
+        "text": "shish kabob",
+        "symbol": "border"
+    },
+    {
+        "color": "redGreen",
+        "subject": "convenience store",
+        "text": "lotto atm",
+        "symbol": "border"
+    },
+    {
+        "color": "blueRed",
+        "subject": "convenience store",
+        "text": "coffee",
+        "symbol": "border"
+    },
+    {
+        "color": "blueRed",
+        "subject": "convenience store",
+        "text": "snacks",
+        "symbol": "border"
+    },
+    {
+        "color": "blueRed",
+        "subject": "convenience store ",
+        "text": "slush",
+        "symbol": "border"
+    },
+    {
+        "color": "redGreen",
+        "subject": "liquor store",
+        "text": "open",
+        "symbol": "wavy border"
+    },
+    {
+        "color": "redBlue",
+        "subject": "convenience store",
+        "text": "open",
+        "symbol": "curved underline"
+    },
+    {
+        "color": "green",
+        "subject": "restaurant",
+        "text": "lunch special"
+    },
+    {
+        "color": "greenRedYellowBluePurple",
+        "subject": "grocery store",
+        "text": "smoke shop hookah",
+        "symbol": "hookah pipe"
+    },
+    {
+        "color": "greenRed",
+        "subject": "restaurant",
+        "text": "fast delivery"
+    },
+    {
+        "color": "greenRedYellow ",
+        "subject": "restaurant",
+        "text": "open 546-1400",
+        "symbol": "wavy double underline"
+    },
+    {
+        "color": "redYellow",
+        "subject": "restaurant",
+        "text": "pizza shrimp",
+        "symbol": "wavy double underline"
+    },
+    {
+        "color": "redBluePurple",
+        "subject": "bar",
+        "text": "honest john's",
+        "symbol": "border"
+    },
+    {
+        "color": "pinkRedBlue",
+        "subject": "factory",
+        "text": "kowalski",
+        "symbol": "sausage with coctail fork"
+    },
+    {
+        "color": "redYellowWhite",
+        "subject": "restaurant",
+        "text": "the fly trap a finer diner",
+        "symbol": "fly with speed lines"
+    },
+    {
+        "color": "redWhite",
+        "subject": "restaurant",
+        "symbol": "pizza inside flask beaker"
+    },
+    {
+        "color": "redYellow",
+        "subject": "bar restaurant",
+        "text": "elwood bar and grill",
+        "symbol": "lines"
+    },
+    {
+        "color": "greenBlueRed",
+        "subject": "restaurant",
+        "text": "fresh fish house"
+    },
+    {
+        "color": "redBlueOrangeWhite",
+        "subject": "restaurant",
+        "text": "you buy we fry",
+        "symbol": "fish and water in circle"
+    },
+    {
+        "color": "redGreenYellow",
+        "subject": "parking",
+        "text": "gem center parking",
+        "symbol": "model T"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "text": "chicago style pizza"
+    },
+    {
+        "color": "blueRed",
+        "subject": "restaurant",
+        "text": "new parthenon restaurant"
+    },
+    {
+        "color": "red",
+        "subject": "retail",
+        "text": "nothing stops detroit"
+    },
+    {
+        "color": "blueRed",
+        "subject": "restaurant",
+        "text": "gyros",
+        "symbol": "circle"
+    },
+    {
+        "color": "blueRedWhiteYellow",
+        "subject": "food",
+        "text": "dutch girl donuts",
+        "symbol": "dutch girl"
+    },
+    {
+        "color": "greenRedWhite",
+        "subject": "restaurant",
+        "text": "vinsetta garage custom detroit eats"
+    },
+    {
+        "color": "red",
+        "subject": "bar",
+        "text": "new dodge lounge"
+    },
+    {
+        "color": "red",
+        "subject": "adult entertainment",
+        "text": "bouzouki"
+    },
+    {
+        "color": "redYellowBlue",
+        "subject": "restaurant",
+        "text": "fishbones seafood steaks sushi",
+        "symbol": "lines and mutliple fish"
+    },
+    {
+        "color": "redGreen",
+        "subject": "bar",
+        "text": "the bronx bar"
+    },
+    {
+        "color": "red",
+        "subject": "entertainment",
+        "text": "music hall"
+    },
+    {
+        "color": "red",
+        "subject": "food",
+        "text": "bakery"
+    },
+    {
+        "color": "whiteRed",
+        "subject": "cars",
+        "text": "hudson",
+        "symbol": "diamond"
+    },
+    {
+        "color": "red",
+        "subject": "entertainment",
+        "text": "little gem theatre"
+    },
+    {
+        "color": "redWhite",
+        "subject": "retail",
+        "text": "credit simmons and clark jewellers bolova watches"
+    },
+    {
+        "color": "redGreen",
+        "subject": "bar",
+        "text": "village idiot pub"
+    },
+    {
+        "color": "redBlue",
+        "subject": "bar",
+        "text": "kurz dakota inn kwality beer"
+    },
+    {
+        "color": "blueOrangeRed",
+        "subject": "lighting",
+        "text": "kirlin recessed lighting"
+    },
+    {
+        "color": "redYellowWhite",
+        "subject": "restaurant",
+        "text": "johnny rockets the original hamburger",
+        "symbol": "circle"
+    },
+    {
+        "color": "greenBlueRed",
+        "subject": "hotel",
+        "text": "holiday inn",
+        "symbol": "stars"
+    },
+    {
+        "color": "greenWhiteRed",
+        "subject": "office",
+        "text": "wework detroit",
+        "symbol": "diamond, tiger, redwings, musical notes, hotdog, fleur de lis, microphones"
+    },
+    {
+        "color": "redWhite",
+        "subject": "sports",
+        "text": "red wings",
+        "symbol": "red wings"
+    },
+    {
+        "color": "blueRed",
+        "subject": "restaurant",
+        "text": "flame pizza",
+        "symbol": "pizza fire"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "text": "gaslight"
+    },
+    {
+        "color": "redBlue",
+        "subject": "restaurant",
+        "text": "laikon cafe saganaki liquor"
+    },
+    {
+        "color": "redGreen",
+        "subject": "grocery store",
+        "text": "nutri-foods vitamins health foods"
+    },
+    {
+        "color": "redGreen",
+        "subject": "adult entertainment",
+        "text": "booby trap",
+        "symbol": "circle, cocktail glass"
+    },
+    {
+        "color": "redBlue",
+        "subject": "cars",
+        "text": "hot wheel city",
+        "symbol": "lines"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "text": "olso sushi thai bar lounge nightclub"
+    },
+    {
+        "color": "redGreen",
+        "subject": "flower",
+        "symbol": "rose"
+    },
+    {
+        "color": "redYellowPurpleGreen",
+        "text": "burgers",
+        "symbol": "burger"
+    },
+    {
+        "color": "pink",
+        "subject": "bar",
+        "text": "vivios"
+    },
+    {
+        "color": "greenYellowRedBlueWhite",
+        "text": "pizza",
+        "symbol": "pizza"
+    },
+    {
+        "color": "redWhite",
+        "text": "gyros coneys",
+        "symbol": "boder"
+    },
+    {
+        "color": "redWhite",
+        "text": "redsmoke barbeque",
+        "symbol": "pig, border"
+    },
+    {
+        "color": "redWhiteOrange",
+        "subject": "church",
+        "text": "jesus saves",
+        "symbol": "cross, crown"
+    },
+    {
+        "color": "redWhiteBlue",
+        "subject": "education",
+        "text": "ace driving school",
+        "symbol": "car"
+    },
+    {
+        "color": "purpleRed",
+        "subject": "psychic",
+        "text": "psychic tarot cards",
+        "symbol": "hand"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "text": "national coney island"
+    },
+    {
+        "color": "blueWhiteRedYellow",
+        "text": "pegasus",
+        "symbol": "woman riding pegasus on cloud"
+    },
+    {
+        "color": "greenRed",
+        "subject": "theater",
+        "text": "civic",
+        "symbol": "lines"
+    },
+    {
+        "color": "redWhite",
+        "subject": "bar",
+        "text": "budweiser",
+        "symbol": "bowtie-shaped border"
+    },
+    {
+        "color": "redYellow",
+        "subject": "cleaners",
+        "text": "clairmont laundry cleaners",
+        "symbol": "lines"
+    },
+    {
+        "color": "blueRed",
+        "subject": "bar",
+        "text": "kwicky bar"
+    },
+    {
+        "color": "greenWhite",
+        "subject": "restaurant",
+        "text": "greenroom ",
+        "symbol": "double border"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "text": "salads",
+        "symbol": "arrow"
+    },
+    {
+        "color": "red",
+        "subject": "bowling",
+        "text": "luxury lanes",
+        "symbol": "arrow"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "text": "como's restaurant",
+        "symbol": "border, star"
+    },
+    {
+        "color": "yellowRed",
+        "subject": "bar restaurant",
+        "text": "dinos cocktails",
+        "symbol": "cocktail glass"
+    },
+    {
+        "color": "green",
+        "subject": "bar restaurant",
+        "text": "dannys",
+        "symbol": "shamrock"
+    },
+    {
+        "color": "blueRed",
+        "subject": "bar restaurant",
+        "text": "la moon manor hotel"
+    },
+    {
+        "color": "blue",
+        "subject": "bar restaurant",
+        "text": "men lie"
+    },
+    {
+        "color": "blue",
+        "subject": "bar restaurant",
+        "text": "sobriety sucks"
+    },
+    {
+        "color": "purple",
+        "subject": "bar restaurant",
+        "text": "count your change"
+    },
+    {
+        "color": "redYellow",
+        "subject": "bar restaurant",
+        "text": "ask for bacardi rum"
+    },
+    {
+        "color": "purpleRed",
+        "subject": "bar restaurant",
+        "text": "wear your fricken seat belt"
+    },
+    {
+        "color": "redGreen",
+        "subject": "bar restaurant",
+        "text": "bah fuckin humbug"
+    },
+    {
+        "color": "red",
+        "subject": "bar restaurant",
+        "text": "strohs"
+    },
+    {
+        "color": "blueGreenYellowRedPurple",
+        "subject": "restaurant",
+        "symbol": "5 torches"
+    },
+    {
+        "color": "redGreen",
+        "subject": "bar",
+        "text": "fresh booze"
+    },
+    {
+        "color": "green",
+        "subject": "restaurant",
+        "text": "detroit joes"
+    },
+    {
+        "color": "redWhiteYelllow",
+        "subject": "ice cream",
+        "text": "dairy deluxe",
+        "symbol": "ice cream cone"
+    },
+    {
+        "color": "white",
+        "text": "tiger stadium"
+    },
+    {
+        "color": "redWhiteBlue",
+        "subject": "restaurant",
+        "text": "bar & grill cobo joes pizza",
+        "symbol": "double circle"
+    },
+    {
+        "color": "blue",
+        "subject": "bar",
+        "text": "bleu "
+    },
+    {
+        "color": "red",
+        "subject": "elevator",
+        "text": "elevator"
+    },
+    {
+        "color": "white",
+        "subject": "bar",
+        "text": "cas bar"
+    },
+    {
+        "color": "blueRedYellow",
+        "subject": "bowling",
+        "text": "bowl garden bowl",
+        "symbol": "bowling ball, lines"
+    },
+    {
+        "color": "redGreenYellow",
+        "subject": "restaurant",
+        "text": "monroe st steak. house",
+        "symbol": "lines"
+    },
+    {
+        "color": "redYellow",
+        "subject": "restaurant",
+        "text": "the alley grill"
+    },
+    {
+        "color": "redBlue",
+        "subject": "restaurant",
+        "text": "soul food",
+        "symbol": "circle"
+    },
+    {
+        "color": "greenWhite",
+        "subject": "beverage",
+        "text": "vernor's ginger ale",
+        "symbol": "circle"
+    },
+    {
+        "color": "blue",
+        "subject": "retail",
+        "text": "days"
+    },
+    {
+        "color": "blueRedGreen",
+        "subject": "restaurant",
+        "text": "beer new hellas cafe",
+        "symbol": "zigzag"
+    },
+    {
+        "color": "greenRed",
+        "subject": "restaurant",
+        "text": "zorbas family dining",
+        "symbol": "border"
+    },
+    {
+        "color": "redBlue",
+        "subject": "restaurant",
+        "text": "cyprus taverna liquor beer wine",
+        "symbol": "circle"
+    },
+    {
+        "color": "red",
+        "subject": "exterminator",
+        "text": "kill bugs u-do-it"
+    },
+    {
+        "color": "blueRed",
+        "subject": "bar restaurant",
+        "text": "the fire house",
+        "symbol": "fire"
+    },
+    {
+        "color": "greenRed",
+        "subject": "bar",
+        "text": "upstairs",
+        "symbol": "pointing hand"
+    },
+    {
+        "color": "whiteBlueRedGreen",
+        "subject": "salon",
+        "text": "looks by lauren",
+        "symbol": "rose"
+    },
+    {
+        "color": "white",
+        "subject": "food",
+        "text": "paris crepes"
+    },
+    {
+        "color": "blue",
+        "subject": "antiques",
+        "text": "antique replica"
+    },
+    {
+        "color": "redWhiteBlueYellowGreen",
+        "subject": "sports",
+        "text": "detroit lions detroit lions inc.",
+        "symbol": "football player, lion, circle, border"
+    },
+    {
+        "color": "redWhite",
+        "subject": "bar",
+        "text": "tap room",
+        "symbol": "cocktail glass"
+    },
+    {
+        "color": "redGreen",
+        "subject": "bowling",
+        "text": "rock n bowl"
+    },
+    {
+        "color": "white",
+        "subject": "cars",
+        "text": "holland sales & service"
+    },
+    {
+        "color": "greenRedYellow",
+        "subject": "restaurant",
+        "text": "xochimilco mexican food carryout",
+        "symbol": "cactus"
+    },
+    {
+        "color": "redBlue",
+        "subject": "bar",
+        "text": "liquor wine",
+        "symbol": "circle"
+    },
+    {
+        "color": "redBlue",
+        "subject": "bar",
+        "text": "detroiter bar",
+        "symbol": "border"
+    },
+    {
+        "color": "yellowBlueRedWhite",
+        "subject": "restaurant",
+        "text": "masons burgers",
+        "symbol": "burger buns"
+    },
+    {
+        "color": "redGreen",
+        "subject": "theater",
+        "text": "main art theater",
+        "symbol": "lines"
+    },
+    {
+        "color": "redWhiteBlue",
+        "subject": "dentist",
+        "text": "cosmetic dentistry",
+        "symbol": "tooth with face"
+    },
+    {
+        "color": "redWhite",
+        "subject": "restaurant",
+        "text": "primos pizza",
+        "symbol": "chef hat, mustache"
+    },
+    {
+        "color": "red",
+        "subject": "bar",
+        "text": "let there be beer"
+    },
+    {
+        "color": "blueGreen",
+        "subject": "medical marajuana",
+        "text": "medical",
+        "symbol": "marijuana leaf"
+    },
+    {
+        "color": "white",
+        "subject": "bowling",
+        "text": "pro shop"
+    },
+    {
+        "color": "redBlueYellow ",
+        "text": "fish & chips",
+        "symbol": "fish"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "text": "happy boy",
+        "symbol": "pixels"
+    },
+    {
+        "color": "greenWhiteYellow",
+        "subject": "bar",
+        "text": "royal oak back bar",
+        "symbol": "beer glass, circle"
+    },
+    {
+        "color": "redWhite",
+        "subject": "restaurant",
+        "text": "mcdonalds hamburgers of 160 million sold"
+    },
+    {
+        "color": "red",
+        "subject": "plumbing",
+        "text": "brenske",
+        "symbol": "dripping faucet"
+    },
+    {
+        "color": "redBlue",
+        "subject": "cars",
+        "text": "chevrolet",
+        "symbol": "cross-like symbol"
+    },
+    {
+        "color": "red",
+        "subject": "theater",
+        "text": "detroit's finest entertainment"
+    },
+    {
+        "color": "redWhiteBlueYellow",
+        "subject": "restaurant",
+        "text": "motor city grill"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "text": "rainforest cafe"
+    },
+    {
+        "color": "redGreen",
+        "subject": "money service",
+        "text": "loans",
+        "symbol": "border"
+    },
+    {
+        "color": "redOrange",
+        "subject": "restaurant",
+        "text": "arbys roast beef sandwich is delicious"
+    },
+    {
+        "color": "greenYellowWhiteBlue",
+        "subject": "psychic",
+        "text": "psychic",
+        "symbol": "star, crystal ball, moon"
+    },
+    {
+        "color": "red",
+        "subject": "restaurant",
+        "symbol": "chinese style roof"
+    },
+    {
+        "color": "redWhiteBlueGreen",
+        "subject": "plumbing",
+        "text": "o.k. plumbing and heating co.",
+        "symbol": "on faucet"
+    },
+    {
+        "color": "red",
+        "subject": "theater",
+        "text": "capitol"
+    },
+    {
+        "color": "blue",
+        "subject": "restaurant",
+        "text": "hoffman's"
+    },
+    {
+        "color": "pink",
+        "subject": "music venue",
+        "text": "el club"
+    },
+    {
+        "color": "redOrangeGreen",
+        "subject": "convenience store",
+        "text": "7 eleven",
+        "symbol": "border"
+    },
+    {
+        "color": "redPurple",
+        "subject": "restaurant",
+        "text": "the potato place 833-8948"
+    },
+    {
+        "color": "white",
+        "subject": "bar",
+        "text": "lounge"
+    },
+    {
+        "color": "greenBlueWhite",
+        "subject": "music venue",
+        "text": "magic stick alley deck this way",
+        "symbol": "wavy arrow"
+    },
+    {
+        "color": "red",
+        "subject": "music venue",
+        "text": "jazz cafe"
+    },
+    {
+        "color": "blueRed",
+        "subject": "laundry",
+        "text": "dry cleaning",
+        "symbol": "hanger"
+    },
+    {
+        "color": "green",
+        "subject": "bar",
+        "text": "suzys"
+    }
+]
